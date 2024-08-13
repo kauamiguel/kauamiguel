@@ -8,9 +8,9 @@ Hi, my name is Kauã. I am a Swift developer passionate about solving complex pr
 
 ## 💡 Projects with My Work
 
-- [**NicQuit**](https://github.com/enrique-sem-h/MiniChallenge05): NicQuit, an apple watch App that helps people to stop smoking.
-- [**Lumi**](https://github.com/kauamiguel/Lumi---Caderneta-Da-Gestante): Lumi, an app that digitizes the maternity booklet, eliminating the need for a physical prenatal card.
-- [**RetroRun**](https://github.com/kauamiguel/RetroRun): An endless running game where the goal is to survive obstacles and break records.
+- [**NicQuit**](https://github.com/enrique-sem-h/MiniChallenge05): NicQuit, an apple watch App that helps people to stop smoking ([**App Store**](https://apps.apple.com/br/app/nicquit/id6503173137?l=en-GB)).
+- [**Lumi**](https://github.com/kauamiguel/Lumi---Caderneta-Da-Gestante): Lumi, an app that digitizes the maternity booklet, eliminating the need for a physical prenatal card. ([**App Store**](https://apps.apple.com/br/app/lumi-caderneta-da-gestante/id6467932410?l=en-GB))
+- [**RetroRun**](https://github.com/kauamiguel/RetroRun): An endless running game where the goal is to survive obstacles and break records. ([**App Store**](https://apps.apple.com/br/app/retro-run/id6455460956?l=en-GB))
 
 ## 📚 Tech Articles, Hackathons and University Projects
 
