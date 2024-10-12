@@ -1,6 +1,6 @@
 ## 👋 Introduction
 
-Hi, my name is Kauã. I am a Swift developer passionate about solving complex problems and exploring computer science. Currently, I am working at the Apple Developer Academy, where I create apps for iOS, iPadOS, macOS, and watchOS. I am seeking a junior-level position where I can further develop my skills and contribute to the team by adding value.
+Hi, my name is Kauã. I am a Swift developer passionate about solving complex problems and exploring computer science. Currently, I am working at the Apple Developer Academy, where I create apps for iOS, iPadOS, macOS, and watchOS. I am seeking an iOS position where I can further develop my skills and contribute to the team by adding value.
 
 ## 📫 Contact Me on Social Media
 
