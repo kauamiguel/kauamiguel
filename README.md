@@ -4,7 +4,7 @@ Hi, my name is Kauã. I am a Swift developer passionate about solving complex pr
 
 ## 📫 Contact Me on Social Media
 
-👨🏼‍💻 [Linkedin][-1] | 📱 [Instagram][0] | ✉️ [Email](kauamcm@gmail.com)
+👨🏼‍💻 [Linkedin][-1] | 📱 [Instagram][0] | ✉️ Email : kauamcm@gmail.com
 
 ## 💡 Projects with My Work
 
