@@ -12,7 +12,7 @@ Hi, my name is Kauã. I am a Swift developer passionate about solving complex pr
 - [**Lumi**](https://github.com/kauamiguel/Lumi---Caderneta-Da-Gestante): Lumi, an app that digitizes the maternity booklet, eliminating the need for a physical prenatal card. ([**App Store**](https://apps.apple.com/br/app/lumi-caderneta-da-gestante/id6467932410?l=en-GB))
 - [**RetroRun**](https://github.com/kauamiguel/RetroRun): An endless running game where the goal is to survive obstacles and break records. ([**App Store**](https://apps.apple.com/br/app/retro-run/id6455460956?l=en-GB))
 - **Doppelgänger Box**(Private Repo): Doppelgänger Box is a single-player puzzle game in augmented reality, full of riddles and suspense!. ([**App Store**](https://apps.apple.com/br/app/doppelg%C3%A4nger-box/id6575395049?l=en-GB))
-- **CropScan**(Private Repo): Cropscan, um app que ajuda agricultores a cuidarem de suas plantações de cana-de-açúcar. ([**App Store**](https://apps.apple.com/br/app/cropscan/id6482980793?l=en-GB))
+- **CropScan**(Private Repo): Cropscan, an app that helps farmers take care of their sugarcane crops. ([**App Store**](https://apps.apple.com/br/app/cropscan/id6482980793?l=en-GB))
 
 ## 📚 Tech Articles, Hackathons and University Projects
 
