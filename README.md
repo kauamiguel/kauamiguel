@@ -6,7 +6,7 @@ Olá, meu nome é Kauã. Sou um desenvolvedor mobile apaixonado por resolver pro
 
 👨🏼‍💻 [Linkedin][-1] | 📱 [Instagram][0] | ✉️ Email : kauamcm@gmail.com
 
-## 💡 Projects with My Work
+## 💡 Projetos que participei
 
 - [**NicQuit**](https://github.com/enrique-sem-h/MiniChallenge05): NicQuit, um app para Apple Watch que ajuda pessoas a parar de fumar([**App Store**](https://apps.apple.com/br/app/nicquit/id6503173137?l=en-GB)).
 - [**Lumi**](https://github.com/kauamiguel/Lumi---Caderneta-Da-Gestante): Lumi, um app que digitaliza a caderneta da gestante, eliminando a necessidade do cartão pré-natal físico. ([**App Store**](https://apps.apple.com/br/app/lumi-caderneta-da-gestante/id6467932410?l=en-GB))
