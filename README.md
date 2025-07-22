@@ -1,34 +1,29 @@
-## 👋 Introduction
+## 👋 Introdução
 
-Hi, my name is Kauã. I am a Mobile developer passionate about solving complex problems and exploring computer science. I've experencie with swift with a bunch of Apples framework and React Native apps.
+Olá, meu nome é Kauã. Sou um desenvolvedor mobile apaixonado por resolver problemas complexos e explorar ciência da computação. Tenho experiência com Swift utilizando diversos frameworks da Apple e aplicativos em React Native.
 
-## 📫 Contact Me on Social Media
+## 📫 Entre em contato
 
 👨🏼‍💻 [Linkedin][-1] | 📱 [Instagram][0] | ✉️ Email : kauamcm@gmail.com
 
 ## 💡 Projects with My Work
 
-- [**NicQuit**](https://github.com/enrique-sem-h/MiniChallenge05): NicQuit, an apple watch App that helps people to stop smoking ([**App Store**](https://apps.apple.com/br/app/nicquit/id6503173137?l=en-GB)).
-- [**Lumi**](https://github.com/kauamiguel/Lumi---Caderneta-Da-Gestante): Lumi, an app that digitizes the maternity booklet, eliminating the need for a physical prenatal card. ([**App Store**](https://apps.apple.com/br/app/lumi-caderneta-da-gestante/id6467932410?l=en-GB))
-- [**RetroRun**](https://github.com/kauamiguel/RetroRun): An endless running game where the goal is to survive obstacles and break records. ([**App Store**](https://apps.apple.com/br/app/retro-run/id6455460956?l=en-GB))
-- **Doppelgänger Box**(Private Repo): Doppelgänger Box is a single-player puzzle game in augmented reality, full of riddles and suspense!. ([**App Store**](https://apps.apple.com/br/app/doppelg%C3%A4nger-box/id6575395049?l=en-GB))
-- **CropScan**(Private Repo): Cropscan, an app that helps farmers take care of their sugarcane crops. ([**App Store**](https://apps.apple.com/br/app/cropscan/id6482980793?l=en-GB))
+- [**NicQuit**](https://github.com/enrique-sem-h/MiniChallenge05): NicQuit, um app para Apple Watch que ajuda pessoas a parar de fumar([**App Store**](https://apps.apple.com/br/app/nicquit/id6503173137?l=en-GB)).
+- [**Lumi**](https://github.com/kauamiguel/Lumi---Caderneta-Da-Gestante): Lumi, um app que digitaliza a caderneta da gestante, eliminando a necessidade do cartão pré-natal físico. ([**App Store**](https://apps.apple.com/br/app/lumi-caderneta-da-gestante/id6467932410?l=en-GB))
+- [**RetroRun**](https://github.com/kauamiguel/RetroRun): Um jogo de corrida infinita onde o objetivo é sobreviver aos obstáculos e bater recordes.([**App Store**](https://apps.apple.com/br/app/retro-run/id6455460956?l=en-GB))
+- **Doppelgänger Box**(Private Repo): Doppelgänger Box é um jogo solo de quebra-cabeças em realidade aumentada, cheio de enigmas e suspense!([**App Store**](https://apps.apple.com/br/app/doppelg%C3%A4nger-box/id6575395049?l=en-GB))
+- **CropScan**(Private Repo): CropScan, um app que ajuda agricultores a cuidar de suas plantações de cana-de-açúcar.([**App Store**](https://apps.apple.com/br/app/cropscan/id6482980793?l=en-GB))
 
-## 📚 Tech Articles, Hackathons and University Projects
+## 📚 Artigos Técnicos, Hackathons e Projetos Universitários
 
-Here is an article I wrote about machine learning on iOS devices and how to implement it effectively. **[kauamiguel/Medium](https://medium.com/@kauamcm/machine-learning-emswift-97f01ee7d719)**. 
+Aqui está um artigo que escrevi sobre aprendizado de máquina em dispositivos iOS e como implementá-lo de forma eficiente. **[kauamiguel/Medium](https://medium.com/@kauamcm/machine-learning-emswift-97f01ee7d719)**. 
 
-MÚTUA Hackathon 2023, where our team secured second place by creating a viable solution that significantly improved the workflow and efficiency of the organization. **[Kaua/Hackathon2023](https://www.linkedin.com/posts/kau%C3%A3-miguel-612a29233_hackathon-conquistasprofissionais-tecnologia-activity-7105190385714409472-naH6?utm_source=share&utm_medium=member_desktop)**. 
+Hackathon MÚTUA 2023, onde nossa equipe conquistou o segundo lugar ao criar uma solução viável que melhorou significativamente o fluxo de trabalho e a eficiência da organização.**[Kaua/Hackathon2023](https://www.linkedin.com/posts/kau%C3%A3-miguel-612a29233_hackathon-conquistasprofissionais-tecnologia-activity-7105190385714409472-naH6?utm_source=share&utm_medium=member_desktop)**. 
 
-IdeiaElas Hackathon 2024, where our team developed solutions to reduce femicide in Brazil. We had the opportunity to present our project to a federal representative, highlighting its potential impact. [**kaua/HackathonIdeiaElas2024**](https://www.instagram.com/reel/C-bUw8hsqJe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==). 
+Hackathon IdeiaElas 2024, onde nossa equipe desenvolveu soluções para reduzir o feminicídio no Brasil. Tivemos a oportunidade de apresentar nosso projeto a uma deputada federal, destacando seu potencial de impacto. [**kaua/HackathonIdeiaElas2024**](https://www.instagram.com/reel/C-bUw8hsqJe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==). 
 
-I participated in a university project called SomosTech, where I conducted a workshop on data structures and algorithms. [**kaua/Workshop**](https://github.com/kauamiguel/WorkShopEDA)). 
+Participei de um projeto universitário chamado SomosTech, onde ministrei um workshop sobre estruturas de dados e algoritmos.[**kaua/Workshop**](https://github.com/kauamiguel/WorkShopEDA)). 
 
- 
-## 💻 Open Source Work Stats
-
-![Kauã Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=kauamiguel&show_icons=true&theme=dark)
-
-[-1]: https://www.linkedin.com/in/kauã-miguel-612a29233/
+[-1]: https://www.linkedin.com/in/kauamiguelcostamatos/
 [0]: https://www.instagram.com/kauamiguel._/
 [1]: https://www.zhihu.com/people/lizheming
