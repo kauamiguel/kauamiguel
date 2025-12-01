@@ -1,6 +1,8 @@
 ## 👋 Introdução
 
-Olá, meu nome é Kauã. Sou um desenvolvedor mobile apaixonado por resolver problemas complexos e explorar ciência da computação. Tenho experiência com Swift utilizando diversos frameworks da Apple e aplicativos em React Native.
+Olá! Meu nome é Kauã. Sou um desenvolvedor full stack apaixonado por resolver problemas complexos e explorar profundamente ciência da computação. Atualmente trabalho em uma consultoria, atuando em uma das maiores edTechs do Brasil, onde contribuo para a criação de uma plataforma de diagramação de materiais educacionais utilizada por grandes organizações.
+
+Tenho experiência com Python (arquiteturas serverless) e Next.js com TypeScript, além de já ter atuado em projetos envolvendo React Native, como o desenvolvimento do aplicativo Prova Fácil Professor. Também possuo 2 anos de experiência com Swift, com diversos apps publicados na App Store.
 
 ## 📫 Entre em contato
 
