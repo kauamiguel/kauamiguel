@@ -30,4 +30,3 @@ Participei de um projeto universitário chamado SomosTech, onde ministrei um wor
 [0]: https://www.instagram.com/kauamiguel._/
 [1]: https://www.zhihu.com/people/lizheming
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauamiguel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
